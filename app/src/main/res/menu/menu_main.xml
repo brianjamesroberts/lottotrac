@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_settings" android:title="Select # of entries"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/fourOption"
+        android:title="4"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+    <item android:id="@+id/fiveOption"
+        android:title="5"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+    <item android:id="@+id/sixOption"
+        android:title="6"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+    <item android:id="@+id/sevenOption"
+        android:title="7"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+    <item android:id="@+id/eightOption"
+        android:title="8"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+    <item android:id="@+id/nineOption"
+        android:title="9"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+    <item android:id="@+id/aboutOption"
+        android:title="Instructions/Disclaimer"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        />
+</menu>
