@@ -8,8 +8,8 @@ android {
         applicationId "dnbapps.lottotrac"
         minSdkVersion 16
         targetSdkVersion 21
-        versionCode 3
-        versionName "1.0.02"
+        versionCode 4
+        versionName "1.0.03"
     }
     buildTypes {
         release {
@@ -26,7 +26,7 @@ dependencies {
     compile('de.greenrobot:eventbus:2.0.1') {
         exclude module: 'support-v4'
     }
-    compile 'com.google.android.gms:play-services:7.8.0'
+
     compile 'com.google.android.gms:play-services-ads:7.8.0'
 
 
