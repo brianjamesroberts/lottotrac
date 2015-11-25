@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-d62be01910be6dda8d561edbd53994615dbb7170.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-e268f6e0664b46c2c6f9084ffafe2f758290ba5b.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-0ad770fe23253f99109d0f1307d6e3fd5e314e3f.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-4afbb5235b870133523307e2cda10e96c5013bd7.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-4aaa3964331bd99d98611a348b85415470d618c1.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-1e9069a657201ac65156785173ef8220edae28a5.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-ea58627c29f8bb8f5fb9ea179f25c57041f473dc.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-c592ee38e4cde11ba3daf93f01fbda7e84f87de2.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-7123cbe769944d4cc14cb971af84c4b324dcb03d.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-82c108d949ca141f5e163bb1d0dfe131d72ba8d8.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-dad34d3ec1c8616a26e0a3d515e80254287ce423.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0-ecc2420996391c6d690f981f38ac5c602895937d.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-ab99fe9ce53908cbf8f17cb94bba79b4df38d511.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-331e13517a58d9ed87bfac0c5dde711bd2fc442c.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-ebaf3f8eb893d74fa3bb59c0fbbf723897837825.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/.gradle/caches/modules-2/files-2.1/com.google.android/annotations/4.1.1.4/a1678ba907bf92691d879fef34e1a187038f9259/annotations-4.1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1678ba907bf92691d879fef34e1a187038f9259">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/annotations-4.1.1.4-e03069f98897cbb5e36b87b968fdb8e359cd7189.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-e5941500d2a3dac5844a6de6699ff0ce0600ee4a.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-bb9073e21db98429724d7356bc8a882a18028186.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-b4894081e6cefaae1729e7b9aed86104f89b07d8.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/.gradle/caches/modules-2/files-2.1/com.google.android/android-test/4.1.1.4/5ac4da79230c68fc7d60dc6b02f1c153fca7a6e6/android-test-4.1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ac4da79230c68fc7d60dc6b02f1c153fca7a6e6">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/android-test-4.1.1.4-63ffaa9fc8f88021bde557173c315e01267e52cf.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.0.1/cd429c6b6aa6486bfd99e085eab8e3b39b4583c6/eventbus-2.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cd429c6b6aa6486bfd99e085eab8e3b39b4583c6">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/eventbus-2.0.1-090ff370a8dc6923b944e43f211290132dd00f8a.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-4304841cd81615e40c7d9c34afef30a73b392551.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-d690b41b463ae87386fafd1f9a804885a124e1ef.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/.gradle/caches/modules-2/files-2.1/junit/junit/3.8.2/7e4cde26b53a9a0e3fe5b00d1dbbc7cc1d46060/junit-3.8.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="07e4cde26b53a9a0e3fe5b00d1dbbc7cc1d46060">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/junit-3.8.2-dba83e3af5e3264d9696aab26ba372a33204b349.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-f715d7e85d3970833b67a99704f6f4a4e199d443.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-d626bc2ea4787cdeb1699271c5ea193931bbdb59.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-117e89e5ce22650bdb6aa5f69a59af188ce93828.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-0d0d3558a0fdf6bec329543beb8de77133d9f20e.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-38926e04f7850ed050e6c7102465d8d4b2db963e.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-6a23dc65be6e7badfdf5a92bc6dd9b6d234115d4.jar" />
+    </item>
+    <item
+        jar="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/build/intermediates/pre-dexed/release/classes-2a226b9e5af457428382c3642ea18433e2240c0b.jar" />
+    </item>
+
+</items>

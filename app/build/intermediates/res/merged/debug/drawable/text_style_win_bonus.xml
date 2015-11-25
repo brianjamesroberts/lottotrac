@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:thickness="1dp"
+    android:shape="rectangle"
+    >
+    <stroke android:width="2dp"
+        android:color="#cdffce01"/>
+    <corners android:radius="1dp" />
+    <solid android:color="#ffff5800" />
+
+
+</shape><!-- From: file:/Users/newuser/Documents/AndroidStudioProjects/lottotrac/app/src/main/res/drawable/text_style_win_bonus.xml -->
